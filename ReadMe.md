@@ -24,5 +24,5 @@ osascript MessageSender.scpt [insert phone number here. Starting with +1...] [mo
 
 Example:
 ```sh
-osascript MessageSender.scpt [+18008675309] nattytreasure.txt
+osascript MessageSender.scpt +18008675309 nattytreasure.txt
 ```
